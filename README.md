@@ -1,1 +1,1 @@
-# blog-template
+# webpage-template
